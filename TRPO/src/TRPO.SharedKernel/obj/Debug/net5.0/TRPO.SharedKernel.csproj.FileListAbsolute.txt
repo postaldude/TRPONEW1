@@ -1,0 +1,15 @@
+C:\Users\Papa\Desktop\TRPO\TRPO\TRPO\src\TRPO.SharedKernel\bin\Debug\net5.0\TRPO.SharedKernel.deps.json
+C:\Users\Papa\Desktop\TRPO\TRPO\TRPO\src\TRPO.SharedKernel\bin\Debug\net5.0\TRPO.SharedKernel.dll
+C:\Users\Papa\Desktop\TRPO\TRPO\TRPO\src\TRPO.SharedKernel\bin\Debug\net5.0\ref\TRPO.SharedKernel.dll
+C:\Users\Papa\Desktop\TRPO\TRPO\TRPO\src\TRPO.SharedKernel\bin\Debug\net5.0\TRPO.SharedKernel.pdb
+C:\Users\Papa\Desktop\TRPO\TRPO\TRPO\src\TRPO.SharedKernel\obj\Debug\net5.0\TRPO.SharedKernel.csproj.AssemblyReference.cache
+C:\Users\Papa\Desktop\TRPO\TRPO\TRPO\src\TRPO.SharedKernel\obj\Debug\net5.0\TRPO.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Papa\Desktop\TRPO\TRPO\TRPO\src\TRPO.SharedKernel\obj\Debug\net5.0\TRPO.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\Papa\Desktop\TRPO\TRPO\TRPO\src\TRPO.SharedKernel\obj\Debug\net5.0\TRPO.SharedKernel.AssemblyInfo.cs
+C:\Users\Papa\Desktop\TRPO\TRPO\TRPO\src\TRPO.SharedKernel\obj\Debug\net5.0\TRPO.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\Papa\Desktop\TRPO\TRPO\TRPO\src\TRPO.SharedKernel\obj\Debug\net5.0\TRPO.SharedKernel.dll
+C:\Users\Papa\Desktop\TRPO\TRPO\TRPO\src\TRPO.SharedKernel\obj\Debug\net5.0\ref\TRPO.SharedKernel.dll
+C:\Users\Papa\Desktop\TRPO\TRPO\TRPO\src\TRPO.SharedKernel\obj\Debug\net5.0\TRPO.SharedKernel.pdb
+C:\Users\Papa\Desktop\TRPO\TRPO\TRPO\src\TRPO.SharedKernel\bin\Debug\net5.0\TRPO.SharedKernel.runtimeconfig.json
+C:\Users\Papa\Desktop\TRPO\TRPO\TRPO\src\TRPO.SharedKernel\bin\Debug\net5.0\TRPO.SharedKernel.runtimeconfig.dev.json
+C:\Users\Papa\Desktop\TRPO\TRPO\TRPO\src\TRPO.SharedKernel\obj\Debug\net5.0\TRPO.SharedKernel.genruntimeconfig.cache

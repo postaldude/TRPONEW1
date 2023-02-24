@@ -1,0 +1,23 @@
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\bin\Debug\net5.0\appsettings.json
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\bin\Debug\net5.0\TRPO NEW.exe
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\bin\Debug\net5.0\TRPO NEW.deps.json
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\bin\Debug\net5.0\TRPO NEW.runtimeconfig.json
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\bin\Debug\net5.0\TRPO NEW.runtimeconfig.dev.json
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\bin\Debug\net5.0\TRPO NEW.dll
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\bin\Debug\net5.0\ref\TRPO NEW.dll
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\bin\Debug\net5.0\TRPO NEW.pdb
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\obj\Debug\net5.0\TRPO NEW.csproj.AssemblyReference.cache
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\obj\Debug\net5.0\TRPO NEW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\obj\Debug\net5.0\TRPO NEW.AssemblyInfoInputs.cache
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\obj\Debug\net5.0\TRPO NEW.AssemblyInfo.cs
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\obj\Debug\net5.0\TRPO NEW.csproj.CoreCompileInputs.cache
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\obj\Debug\net5.0\TRPO NEW.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\obj\Debug\net5.0\staticwebassets\TRPO NEW.StaticWebAssets.Manifest.cache
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\obj\Debug\net5.0\staticwebassets\TRPO NEW.StaticWebAssets.xml
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\obj\Debug\net5.0\scopedcss\bundle\TRPO NEW.styles.css
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\obj\Debug\net5.0\TRPO NEW.RazorTargetAssemblyInfo.cache
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\obj\Debug\net5.0\TRPO NEW.dll
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\obj\Debug\net5.0\ref\TRPO NEW.dll
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\obj\Debug\net5.0\TRPO NEW.pdb
+C:\Users\Papa\Desktop\TRPO\TRPO\WebApplication1\obj\Debug\net5.0\TRPO NEW.genruntimeconfig.cache

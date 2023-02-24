@@ -1,0 +1,7 @@
+C:\Users\Papa\Desktop\TRPO\TRPO\TRPONEW\obj\Debug\net5.0\TRPONEW.csproj.AssemblyReference.cache
+C:\Users\Papa\Desktop\TRPO\TRPO\TRPONEW\obj\Debug\net5.0\TRPONEW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Papa\Desktop\TRPO\TRPO\TRPONEW\obj\Debug\net5.0\TRPONEW.AssemblyInfoInputs.cache
+C:\Users\Papa\Desktop\TRPO\TRPO\TRPONEW\obj\Debug\net5.0\TRPONEW.AssemblyInfo.cs
+C:\Users\Papa\Desktop\TRPO\TRPO\TRPONEW\obj\Debug\net5.0\TRPONEW.csproj.CoreCompileInputs.cache
+C:\Users\Papa\Desktop\TRPO\TRPO\TRPONEW\obj\Debug\net5.0\TRPONEW.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Papa\Desktop\TRPO\TRPO\TRPONEW\obj\Debug\net5.0\TRPONEW.MvcApplicationPartsAssemblyInfo.cs
